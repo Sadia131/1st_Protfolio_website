@@ -1,0 +1,112 @@
+body{
+    font-family: 'Crimson Pro', serif;
+    margin: 0px;
+        
+}
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: rgba(255, 144, 80, 0.959);
+}
+.half-width{
+    width:35%;
+    float:left;
+    margin-left:5% ;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg,lightsalmon, red);  
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+h2{
+    font-size: 40px;
+    
+}
+p{
+    color: dimgrey;
+}
+.Dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-project{
+    box-shadow: 10px 10px 40px dimgrey;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+
+}
+.project-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#Travel-agency{
+   border-left: 6px solid;
+   border-image: linear-gradient(180deg,rgba(255, 160, 122, 0.829), rgba(255, 255, 0, 0.815));
+   border-image-slice: 1;
+   color: dimgrey;
+
+}
+.travel-color{
+    color: black;
+}
+#shop-management{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,rgba(122, 255, 173, 0.507), rgba(255, 81, 0, 0.884));
+    border-image-slice: 1; 
+    color: dimgrey;
+}
+.shop-color{
+    color: black;
+}
+.footer-text{
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.footer-h2{
+    text-align: center;
+}
+
+.gmail{ 
+    text-decoration: none;
+    color: #3e354981;
+    font-size: 30px;
+    font-weight: 1000;
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+height: 50px;
+margin: 10px;}
+.highlight{
+    text-align: center;
+    height: 150px;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgb(255, 136, 0);
+    
+    
+}
